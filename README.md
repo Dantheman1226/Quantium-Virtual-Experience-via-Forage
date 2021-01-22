@@ -1,4 +1,4 @@
 # Quantium Virtual Experience via Forage
-Data preparation and customer analytics</br>
-Experimentation and uplift testing</br>
-Analytics and commercial application</br>
+1.Data preparation and customer analytics</br>
+2.Experimentation and uplift testing</br>
+3.Analytics and commercial application</br>
